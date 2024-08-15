@@ -18,4 +18,17 @@ Aplicativo para personal trainer
   Cada novo registro, o usuário/personal terá 10 dias de uso no plano Teste gratis. Os planos adquiridos pelos usuários/personal ficarão atrelados na tabela planoUsuario
   ![image](https://github.com/user-attachments/assets/9a6e5a9e-f4fe-4f2d-adc9-fe14015d6bec)
 
--  
+- **Registro de novos usuários/personal**
+   ![image](https://github.com/user-attachments/assets/d7bc3044-ffa9-4314-a409-1bb8bc0af350)
+
+-  **Login Personal**
+    ![image](https://github.com/user-attachments/assets/779bb256-a504-4e44-af99-174f07184fa4)
+   
+-  **Alterar senha do peronal quando estiver conectado na plataforma**
+  ![image](https://github.com/user-attachments/assets/0be6e491-6f84-4ab7-87ee-09d55dbb2a01)
+  ![image](https://github.com/user-attachments/assets/1a0fac8d-1ee9-4461-926c-d9c29645af53)
+
+
+
+  
+
