@@ -5,17 +5,14 @@ Aplicativo para personal trainer
 
 # BACKEND
 
-- **Aplicação multi tenant**, ou seja, todo usuário que efetuar o registro na plataforma irá visualizar apenas as informações referentes a sua empresa, ou seja, alunos, exercicios, treinos, rotinas, agendas etc.
-  ![image](https://github.com/user-attachments/assets/41f39e17-3f66-4ca1-b56d-165fab0f48d3)
-  ![image](https://github.com/user-attachments/assets/ce6af89e-0a11-4aa3-9cf7-ce32052d3b04)
+- **Aplicação multi tenant**, ou seja, todo usuário que efetuar o registro na plataforma irá visualizar apenas as informações referentes a sua empresa, como alunos, exercicios, treinos, rotinas, agendas etc.
   
 - **Planos de pagamento**, Teste gratis, Semestral, Anual.
-  O administrador do sistema irá definir os planos de pagamento e ficarão salvos na tabela PlanoGeral
-  
-  ![image](https://github.com/user-attachments/assets/aa330546-4261-403c-b5c2-b72e8dc991ef)
-  ![image](https://github.com/user-attachments/assets/9d29bffb-3ecd-4117-93f0-ee1ba7c2ca80)
+  O administrador do sistema irá definir os planos de pagamento que ficarão salvos na tabela **PlanoGeral**
 
-  Cada novo registro, o usuário/personal terá 10 dias de uso no plano Teste gratis. Os planos adquiridos pelos usuários/personal ficarão atrelados na tabela planoUsuario
+**###########################**
+
+  Cada novo registro, o **usuário/personal** terá 10 dias de uso no plano Teste gratis. Os planos adquiridos pelos usuários/personal ficarão atrelados na tabela **planoUsuario**
   ![image](https://github.com/user-attachments/assets/9a6e5a9e-f4fe-4f2d-adc9-fe14015d6bec)
 
 - **Registro de novos usuários/personal**
@@ -31,6 +28,25 @@ Aplicativo para personal trainer
 - **Alterar a senha quando não lembra-la**
  ![image](https://github.com/user-attachments/assets/1636f363-cd27-4163-8533-64567865fa3f)
  ![image](https://github.com/user-attachments/assets/b396a89f-5d29-47a9-8972-92c3ac98abf2)
+
+**###########################**
+
+ - **Cadastro de alunos** Apenas o personal conseguirá efetuar o cadastro dos alunos, e apenas os personais do respectivo tenant conseguirão visualizar os alunos cadastrados.
+   ![image](https://github.com/user-attachments/assets/db54d545-5245-476e-82af-3315bce90a08)
+   
+    Não será possivel cadastrar o mesmo e-mail/aluno no mesmo tenant
+  ![image](https://github.com/user-attachments/assets/9be99211-285b-4e17-836e-29297dcc4826)
+
+    O aluno não terá acesso ao cadastro de alunos, porém existe uma valição impedindo esta ação.
+   ![image](https://github.com/user-attachments/assets/0752041c-6f91-4f1a-ae22-da07e166b2ff)
+
+   Finalizado o cadastro, o alumo também terá acesso ha plataforma, porém com restrições de funcionalidades.
+   ![image](https://github.com/user-attachments/assets/d46652de-2123-4a66-a339-2d9fc56b7764)
+
+
+
+
+
 
 
 
