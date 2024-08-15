@@ -13,8 +13,6 @@ Planos disponíveis: Teste gratuito, Semestral, e Anual. O administrador do sist
 
 Plano de Teste: Cada novo usuário/personal registrado terá acesso a um plano de Teste Gratuito de 10 dias. Após o término do período de teste, os planos adquiridos serão associados ao usuário/personal na tabela planoUsuario.
 
-  ![image](https://github.com/user-attachments/assets/9a6e5a9e-f4fe-4f2d-adc9-fe14015d6bec)
-
 **Registro de Novos Usuários/Personais**
 O registro de novos usuários/personais é simples e intuitivo.
 
@@ -70,6 +68,31 @@ Apenas o personal do respectivo tenant conseguirá efetuar a busca, sendo restri
 **Atualizar exercicios**
 Também é possível editar os exercícios já existentes, incluindo suas formas de execução. Os personal trainers podem remover, atualizar ou adicionar novas formas de execução ao exercício correspondente, conforme necessário.
 ![image](https://github.com/user-attachments/assets/f54a4d38-0ed1-4103-8d50-3432aae275f4)
+
+**###########################**
+
+**Cadastro de treinos**
+Seguindo a mesma lógica, apenas o personal conseguirá criar os treinos.
+![image](https://github.com/user-attachments/assets/8f08e07c-ec80-41be-9af7-9b0979294dba)
+
+**Vincular exercicios no treino**
+Na montagem do treino o personal conseguirá selecionar o exercicio e a respectiva forma de execução, observações para cada exercicio, carga, séries e tempo de descanso.
+![image](https://github.com/user-attachments/assets/a1261080-0ecc-48ed-acf4-abebcf1ae16e)
+
+**Atualização dos treinos**
+Após criar o treino, é possivel alterar descrições, adicionar ou remover exercicios do treino existente.
+
+**Clonar treino e exercicios vinculados**
+Adicionado funcionalidade de clonagem dos treinos e exercicios vinculados
+![image](https://github.com/user-attachments/assets/34af7984-3d8d-48ce-839e-b5bf5cfcf613)
+
+**###########################**
+
+**Cadastro de rotinas:**
+Apenas o personal conseguirá efetuar a criação das rotinas, sendo possivel vincular a mesma para um ou mais alunos.
+![image](https://github.com/user-attachments/assets/e81de742-c1bb-4d79-b82e-bcc142fe5875)
+
+
 
 
 
