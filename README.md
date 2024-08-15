@@ -24,9 +24,14 @@ Aplicativo para personal trainer
 -  **Login Personal**
     ![image](https://github.com/user-attachments/assets/779bb256-a504-4e44-af99-174f07184fa4)
    
--  **Alterar senha do peronal quando estiver conectado na plataforma**
+-  **Alterar senha quando estiver conectado na plataforma**
   ![image](https://github.com/user-attachments/assets/0be6e491-6f84-4ab7-87ee-09d55dbb2a01)
   ![image](https://github.com/user-attachments/assets/1a0fac8d-1ee9-4461-926c-d9c29645af53)
+
+- **Alterar a senha quando não lembra-la**
+ ![image](https://github.com/user-attachments/assets/1636f363-cd27-4163-8533-64567865fa3f)
+ ![image](https://github.com/user-attachments/assets/b396a89f-5d29-47a9-8972-92c3ac98abf2)
+
 
 
 
