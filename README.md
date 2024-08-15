@@ -10,7 +10,8 @@ Aplicativo para personal trainer
   ![image](https://github.com/user-attachments/assets/ce6af89e-0a11-4aa3-9cf7-ce32052d3b04)
   
 - **Planos de pagamento**, Teste gratis, Semestral, Anual.
-  O administrador do sistema irá definir os planos depagamento e ficarão salvos na tabela PlanoGeral
+  O administrador do sistema irá definir os planos de pagamento e ficarão salvos na tabela PlanoGeral
+  
   ![image](https://github.com/user-attachments/assets/aa330546-4261-403c-b5c2-b72e8dc991ef)
   ![image](https://github.com/user-attachments/assets/9d29bffb-3ecd-4117-93f0-ee1ba7c2ca80)
 
