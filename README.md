@@ -63,6 +63,16 @@ Um mesmo exercício pode ter várias formas de execução. Essas variações pod
 **Tentativa de cadastro com o login do aluno.**
     ![image](https://github.com/user-attachments/assets/81cf6f94-fdbd-4fa7-817d-91e3b2f6f33a)
 
+**Consultar exercicios.**
+Apenas o personal do respectivo tenant conseguirá efetuar a busca, sendo restrito aos alunos.
+![image](https://github.com/user-attachments/assets/963acb6b-1997-42cb-8cc1-68e47f82d877)
+
+**Atualizar exercicios**
+Também é possível editar os exercícios já existentes, incluindo suas formas de execução. Os personal trainers podem remover, atualizar ou adicionar novas formas de execução ao exercício correspondente, conforme necessário.
+![image](https://github.com/user-attachments/assets/f54a4d38-0ed1-4103-8d50-3432aae275f4)
+
+
+
 
 
 
