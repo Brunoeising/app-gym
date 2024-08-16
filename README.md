@@ -92,6 +92,26 @@ Adicionado funcionalidade de clonagem dos treinos e exercicios vinculados
 Apenas o personal conseguirá efetuar a criação das rotinas, sendo possivel vincular a mesma para um ou mais alunos.
 ![image](https://github.com/user-attachments/assets/e81de742-c1bb-4d79-b82e-bcc142fe5875)
 
+**Iniciar Treino**
+Após o vinculo do aluno com a rotina, será possivel iniciar cada treino vinculado na rotina, para registrar data e hora de inicio.
+![image](https://github.com/user-attachments/assets/949dd2b4-502f-4673-9b8c-fa63348e0493)
+
+**Registro de execução do exercicio pelo aluno.**
+Em cada exercicio o aluno conseguirá informar a carga máxima utilizada na execução e alguma observação se necessário.
+![image](https://github.com/user-attachments/assets/edce94e9-3a1e-42dc-8ed3-8fc94affd8a1)
+
+**Finalizar treino**
+Após a conclusão dos exercicios vinculados ao treino, o aluno irá finalizar o treino, registrando assim o tempo total do treino, data e hora de inicio e fim.
+![image](https://github.com/user-attachments/assets/f91ace8d-28ba-4dbf-8511-706c8daec953)
+
+**progresso**
+será possivel visualizar o progresso dos alunos referente aos treinos executados.
+![image](https://github.com/user-attachments/assets/3a1212f5-3411-45bf-aa94-9dfa05bcc752)
+
+
+
+
+
 
 
 
