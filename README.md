@@ -101,7 +101,7 @@ Em cada exercicio o aluno conseguirá informar a carga máxima utilizada na exec
 ![image](https://github.com/user-attachments/assets/edce94e9-3a1e-42dc-8ed3-8fc94affd8a1)
 
 **Finalizar treino**
-Após a conclusão dos exercicios vinculados ao treino, o aluno irá finalizar o treino, registrando assim o tempo total do treino, data e hora de inicio e fim.
+Após a conclusão dos exercicios vinculados ao treino, o aluno irá finalizar, registrando assim o tempo total, data e hora de inicio e fim.
 ![image](https://github.com/user-attachments/assets/f91ace8d-28ba-4dbf-8511-706c8daec953)
 
 **progresso**
